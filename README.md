@@ -19,7 +19,7 @@ It is a Laravel 8 blade template based demo project reflecting advance features 
 7. Datatables
 
 ## Getting Started Step by Step
-1. In your root folder, clone the project file using git clone https://github.com/rafi021/Laravel-Advance-Ecommerce.git
+1. In your root folder, clone the project file using git clone https://github.com/vit718/Laravel-Advanced-Ecommerce.git
 2. Open terminal (bash/cmd). Then go to project folder using command
 
 ```sh
@@ -60,11 +60,11 @@ php artisan migrate:fresh --seed
 
 After completing the migration and seeding of db, you will have 2 user ready for login in this project. 
 A.  Admin -> Admin
-    Email -> admin@gmail.com
+    Email -> admin
     Pass -> 12345678
 
 B.  User -> User
-    Email -> user@gmail.com
+    Email -> user
     Pass -> 12345678
 
 Finally we are ready to run our project using this command 
